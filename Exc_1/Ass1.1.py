@@ -2,12 +2,12 @@
 
 # Hayrunnisa Bıyıklı 21091010143
 
-name = "Hayrunnisa BIYIKLI"
-address = "Pendik, Baskale Street"
-city = "Istanbul"
-region = "Marmara Region"  #I replaced State with Region.
-zip_code = "34912"
-telephone = "05431638914"
+name = "Name"
+address = "Address"
+city = "City"
+region = "Region"  #I replaced State with Region.
+zip_code = "zip_cod"
+telephone = "phone_numbers"
 
 print("Name: " + name)
 print("Address: " + address)
